@@ -13,7 +13,7 @@ namespace DJConsoleConnectedDataReader
         {
             Console.WriteLine("***** Fun with Data Readers *****\n");
 
-            string cnStr = "Provider=Microsoft.ACE.OLEDB.12.0;" + "Data Source='C:/Users/Daniel/Documents/Spring14/RD/Work/DJCOMP3710Applications/DJCamashaly Design.accdb'";
+            string cnStr = "Provider=Microsoft.ACE.OLEDB.12.0;" + "Data Source='C:/Users/Daniel/Documents/Spring14/RD/Work/trunk/DJCamashaly Design.accdb'";
 
             using (OleDbConnection cn = new OleDbConnection())
             {

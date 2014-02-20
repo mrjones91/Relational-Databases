@@ -13,13 +13,14 @@ namespace ConsoleApplication2
         {
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.BackgroundColor = ConsoleColor.Yellow;
+            //Console.ResetColor();
             
             Console.WriteLine("***** Fun with Data Readers *****\n");
             Console.WriteLine("The result in a table format\n");
             Console.WriteLine("R#  CL#\t\tClient Name\t\tBA#");
             Console.WriteLine("-------------------------------------------");
 
-            string cnStr = "Provider=Microsoft.ACE.OLEDB.12.0;" + "Data Source='C:/Users/Daniel/Documents/Spring14/RD/Work/DJCOMP3710Applications/DJCamashaly Design.accdb'";
+            string cnStr = "Provider=Microsoft.ACE.OLEDB.12.0;" + "Data Source='C:/Users/Daniel/Documents/Spring14/RD/Work/trunk/DJCOMP3710Applications/DJCamashaly Design.accdb'";
 
             using (OleDbConnection cn = new OleDbConnection())
             {

@@ -1,0 +1,12 @@
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\Application2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

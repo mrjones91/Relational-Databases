@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\bin\Debug\DJCOMP3710Applications.exe.config
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\bin\Debug\DJCOMP3710Applications.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\bin\Debug\DJCOMP3710Applications.pdb
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.Form1.resources
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.Properties.Resources.resources
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.exe
+C:\Users\Daniel\Documents\Spring14\RD\Work\trunk\DJCOMP3710Applications\DJCOMP3710Applications3\DJWindowsConnectedGridView\DJCOMP3710Applications\obj\Debug\DJCOMP3710Applications.pdb
